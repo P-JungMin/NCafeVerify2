@@ -3,9 +3,9 @@ package com.pic_e.ncafeverify2;
 import org.bukkit.plugin.Plugin;
 import org.bukkit.plugin.java.JavaPlugin;
 
+import com.pic_e.ncafeverify2.api.SkriptManager;
 import com.pic_e.ncafeverify2.listeners.CommandListener;
 import com.pic_e.ncafeverify2.listeners.EventListener;
-import com.pic_e.ncafeverify2.skript.SkriptManager;
 import com.pic_e.ncafeverify2.utils.Config;
 
 public class NCafeVerify2 extends JavaPlugin{

@@ -1,4 +1,4 @@
-package com.pic_e.ncafeverify2.skript;
+package com.pic_e.ncafeverify2.api;
 
 import org.bukkit.event.Event;
 
