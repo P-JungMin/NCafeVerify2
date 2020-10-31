@@ -30,6 +30,8 @@
 > #### 플러그인
 >
 > * `VerifySuccessEvent`: 인증에 성공했을 때 발생되는 이벤트.
+> * `NCafeVerifyAPI.isVerified(Player)`: 플레이어의 인증 여부를 반환 (boolean)
+> * `NCafeVerifyAPI.getNaverID(Player)`: 플레이어의 네이버 아이디를 반환. 만약플레이어의 인증이 완료되지 않았다면 null 반환 (String)
 
 > #### Skript
 >
