@@ -1,0 +1,9 @@
+main: com.pic_e.ncafeverify2.NCafeVerify2
+name: NCafeVerify2
+version: 1.0.0
+author: [ Pic_E ]
+softdepend: [ Skript ]
+
+commands:
+  카페인증: {}
+  인증관리: {}
