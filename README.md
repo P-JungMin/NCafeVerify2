@@ -1,4 +1,4 @@
-더이상 사용되지 않는 버전입니다. [이곳](https://github.com/P-JungMin/NCafeVerify)에서 새로운 버전을 이용해주세요.
+# 더이상 사용되지 않는 버전입니다. [이곳](https://github.com/P-JungMin/NCafeVerify)에서 새로운 버전을 이용해주세요.
 
 
 # NCafeVerify2
